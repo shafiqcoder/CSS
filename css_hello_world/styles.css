@@ -1,0 +1,13 @@
+.title
+{
+    text-align: center;
+    color:yellow;
+    background-color:rgb(61, 110, 202);
+}
+.para
+{
+    color:darkred;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bold;
+}
